@@ -1,11 +1,11 @@
 # Site settings
 author: Spencer A Cambern
-title: Why software engineering?
+title: Joureny through progress
 header-img: img/home-bg.png
 email: cambern134@gmail.com
 copyright_name: Spencer A Cambern
 description: > # this means to ignore newlines until "baseurl:"
-  Reason why im studing in it
+  My learning experience
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  cambe134
