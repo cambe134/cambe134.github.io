@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Cli project meal finder"
-date:       2020-05-29 20:39:19 +0000
+date:       2020-05-29 16:39:20 -0400
 permalink:  cli_project_meal_finder
 ---
 
